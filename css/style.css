@@ -1,0 +1,34 @@
+@import "./reset.css";
+
+body {
+  height: 100vh;
+}
+
+.wapper {
+  width: 100%;
+  height: 100vh;
+}
+
+.header {
+  width: 100%;
+  height: 50px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  border: 1px solid whitesmoke;
+}
+
+.header-tap {
+  font-size: 30px;
+  font-weight: bold;
+}
+
+.header-tap:hover {
+  color: grey;
+}
+
+#clock {
+  margin-top: 20px;
+  text-align: center;
+  font-size: 70px;
+}
