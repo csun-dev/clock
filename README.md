@@ -1,3 +1,3 @@
-# Frontend web tutorial
+# Real Time Clock
 
-Frontend demo template using HTML5, CSS3, VanillaJS
+Real Time Clock with HTML + CSS + Javascript
